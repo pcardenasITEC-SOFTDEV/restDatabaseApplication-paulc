@@ -1,4 +1,4 @@
-package com.example.hellorestdatabase;
+package com.example.restdatabaseapplication;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.apache.commons.io.FileUtils;

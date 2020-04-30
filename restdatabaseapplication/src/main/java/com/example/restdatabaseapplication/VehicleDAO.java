@@ -1,4 +1,4 @@
-package com.example.hellorestdatabase;
+package com.example.restdatabaseapplication;
 
 
 import org.springframework.stereotype.Repository;
